@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{91C86E2A-A7E8-4E47-A757-A8A653966C6A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="vb-project03/Form1.vb">
+    <Files>
+      <File FileName="vb-project03/Form1.vb" Line="101" Column="9" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.vb-project03 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
